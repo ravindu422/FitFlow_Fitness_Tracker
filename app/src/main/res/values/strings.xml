@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FitFlow</string>
+
+    <!-- Get Started Screen -->
+    <string name="get_started_title">Welcome to FitTrack</string>
+    <string name="get_started_subtitle">Your Personal Fitness Companion</string>
+    <string name="btn_get_started">Get Started</string>
+
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Register Now</string>
+    <string name="reg_msg">Create your account to get started</string>
+    <string name="hint_fullName">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="link_signIn">Already have an account? </string>
+    <string name="link_signIn1">Sign In</string>
+    <string name="continue_with">or continue with</string>
+    <!-- Sign In Screen -->
+    <string name="signIn_title">Welcome back!</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="link_signup">Don\'t have an account?</string>
+    <string name="link_signup1">Sign Up</string>
+
+    <!-- Home Screen -->
+    <string name="home_welcome">Hello, %1$s!</string>
+    <string name="home_daily_goal">Daily Fitness Goal</string>
+    <string name="home_steps">Steps</string>
+    <string name="home_calories">Calories Burned</string>
+</resources>
